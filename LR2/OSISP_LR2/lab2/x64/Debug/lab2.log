@@ -1,0 +1,10 @@
+﻿  lab2.cpp
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(59,45): warning C4267: аргумент: преобразование из "size_t" в "LONG"; возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(60,53): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(80,42): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(127,28): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(157,41): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(174,28): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(194,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maksk\Desktop\lab2\lab2\lab2.cpp(201,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> C:\Users\maksk\Desktop\lab2\x64\Debug\lab2.exe
