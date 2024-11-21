@@ -1,0 +1,10 @@
+﻿  GenerateData.cpp
+C:\Users\maksk\Desktop\OSISP_LR3\Lab3\GenerateData.cpp(48,60): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Lab3.cpp
+  OutputData.cpp
+C:\Users\maksk\Desktop\OSISP_LR3\Lab3\OutputData.cpp(33,51): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  SortData.cpp
+C:\Users\maksk\Desktop\OSISP_LR3\Lab3\SortData.cpp(35,55): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\maksk\Desktop\OSISP_LR3\Lab3\SortData.cpp(67,57): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода...
+  Lab3.vcxproj -> C:\Users\maksk\Desktop\OSISP_LR3\x64\Debug\Lab3.exe
